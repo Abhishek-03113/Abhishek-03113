@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-03113" alt="abhishek-03113" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/esc_abhishek" target="blank"><img src="https://img.shields.io/twitter/follow/esc_abhishek?logo=twitter&style=for-the-badge" alt="esc_abhishek" /></a> </p>
-
 - 🔭 I’m currently working as R&D Intern [Sustainfy Energy](https://www.linkedin.com/company/sustainfy-energy-llp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BzkJHHGxMQ3W4z3zidnj9AA%3D%3D)
 
 - 🌱 I’m currently learning **PyTorch,Gen AI, LLMs, Django**
