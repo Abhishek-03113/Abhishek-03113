@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
 <h3 align="center">A Passionate Deep Learning and Computer Vision Engineer | Full Stack Python Developer |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-03113&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-03113" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-03113" alt="abhishek-03113" /></a> </p>
-
 - 🔭 I’m currently working as R&D Intern [Sustainfy Energy](https://www.linkedin.com/company/sustainfy-energy-llp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BzkJHHGxMQ3W4z3zidnj9AA%3D%3D)
 
 - 🌱 I’m currently learning **PyTorch,Gen AI, LLMs, Django**
