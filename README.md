@@ -35,5 +35,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-03113&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="abhishek-03113" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-03113&show_icons=true&theme=gruvbox&locale=en" alt="abhishek-03113" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-03113&show_icons=true&theme=gruvbox&locale=en" alt="abhishek-03113" /></p> -->
 
