@@ -1,15 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-03113&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-03113" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
-<h3 align="center">A Passionate Deep Learning and Computer Vision Engineer | Full Stack Python Developer |</h3>
+<h3 align="center">A Passionate Deep Learning and Computer Vision Engineer | Full Stack Python Developer from India|</h3>
 
 - 🔭 I’m currently working as R&D Intern [Sustainfy Energy](https://www.linkedin.com/company/sustainfy-energy-llp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BzkJHHGxMQ3W4z3zidnj9AA%3D%3D)
 
-- 🌱 I’m currently learning **PyTorch,Gen AI, LLMs, Django**
+- 🌱 I’m currently learning **PyTorch,Gen AI, LLMs and Django web framework**
 
-- 👯 I’m looking to collaborate on [IoT RTSM](https://github.com/Abhishek-03113/IOT-applicatiotion-for-real-time-sensor-monitoring)
+- 🤝 I’m intersted in collaborating and contributing to applied AI projects
 
-- 💬 Ask me about **Digital Image Processing,Computer Vision, OpenCV, SK-Learn,Tensorflow**
+- 💬 Talks about **Digital Image Processing,Computer Vision, OpenCV, SK-Learn,Tensorflow, Applied AI**
 
 - 📫 How to reach me **abhishek03113@gmail.com**
 
