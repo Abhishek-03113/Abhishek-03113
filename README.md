@@ -9,7 +9,7 @@
 
 - 🤝 I’m intersted in collaborating and contributing to applied AI projects
 
-- 💬 Talks about **Digital Image Processing,Computer Vision, OpenCV, SK-Learn,Tensorflow, Applied AI**
+- 💬 Talks about **Digital Image Processing,Computer Vision, OpenCV, SK-Learn,Tensorflow and Applied AI**
 
 - 📫 How to reach me **abhishek03113@gmail.com**
 
