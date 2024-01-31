@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as R&D Intern [Sustainfy Energy](https://www.linkedin.com/company/sustainfy-energy-llp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BzkJHHGxMQ3W4z3zidnj9AA%3D%3D)
 
-- 🌱 I’m currently learning **PyTorch,Gen AI, LLMs and Django web framework**
+- 🌱 I’m currently learning **Gen AI and LLMs**
 
 - 🤝 I’m intersted in collaborating and contributing to applied AI projects
 
