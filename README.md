@@ -20,10 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/esc_abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="esc_abhishek" height="30" width="40" /></a>
 <a href="https://twitter.com/esc_abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esc_abhishek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishekpawar3113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekpawar3113" height="30" width="40" /></a>
-<a href="https://kaggle.com/abhishekpawar3113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhishekpawar3113" height="30" width="40" /></a>
 <a href="https://instagram.com/_abhishek.ipynb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhishek.ipynb" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhishek3113" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek3113" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishek00edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek00edu" height="30" width="40" /></a>
