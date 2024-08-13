@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 <div style="text-align: center;">
-    <img src="header.gif" alt="Centered GIF">
+    <img src="newHeader.gif" alt="Centered GIF">
 </div>
-=======
-![MasterHead](newHeader.gif)
-
->>>>>>> parent of f1b2330 (new gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-03113&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-03113" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
