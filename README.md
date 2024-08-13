@@ -1,20 +1,18 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](dbz.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-03113&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-03113" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
 <h3 align="center">A Passionate Deep Learning and Computer Vision Engineer | Full Stack Python Developer from India|</h3>
 
-- 🔭 I’m currently working as R&D Intern [Sustainfy Energy](https://www.linkedin.com/company/sustainfy-energy-llp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BzkJHHGxMQ3W4z3zidnj9AA%3D%3D)
+- 🔭 I’m a **Machine Learning Engineering**
 
-- 🌱 I’m currently learning **Gen AI and LLMs**
+- 🌱 I’m currently learning **Backend Development**
 
-- 🤝 I’m intersted in collaborating and contributing to applied AI projects
-
-- 💬 Talks about **Digital Image Processing,Computer Vision, OpenCV, SK-Learn,Tensorflow and Applied AI**
+- 💬 Talks about **Computer Vision,Machine Learning, Backend Development**
 
 - 📫 How to reach me **abhishek03113@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a6AcaDsDFlxWQMcn-c5LKnOoUek0pAPX/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xCyp8IYH834zs3pAvPStcm9PuEc30Ztq/view?usp=sharing)
 
 - ⚡ Fun fact **I play chess ! challenge me on [chess.com](https://www.chess.com/member/abhi_03113)**
 
@@ -37,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-03113&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="abhishek-03113" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-03113&theme=dark" alt="abhishek-03113" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-03113&show_icons=true&theme=gruvbox&locale=en" alt="abhishek-03113" /></p> -->
-
-
