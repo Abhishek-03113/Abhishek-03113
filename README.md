@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-03113&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-03113" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
-<h3 align="center" style="font-family: "Pixelify Sans", sans-serif;"> Machine Learning Engineer </h3>
+<h3 align="center" style="font-family: 'Pixelify Sans', sans-serif; font-weight: 400;"> Machine Learning Engineer </h3>
 
 - 🌱 I’m currently learning **Backend Development**
 
