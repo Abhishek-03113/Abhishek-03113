@@ -1,10 +1,15 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+
 <p align="center">
   <img src="newHeader.gif" alt="gif">
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-03113&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-03113" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
-<h3 align="center"> Machine Learning Engineer </h3>
+<h3 align="center" style="font-family: "Pixelify Sans", sans-serif;"> Machine Learning Engineer </h3>
 
 - 🌱 I’m currently learning **Backend Development**
 
