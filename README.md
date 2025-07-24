@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
 
 <p align="center">
-  <img src="newHeader.gif" alt="gif">
+  <img src="Header.gif" alt="gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-03113&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-03113" /> </p>
