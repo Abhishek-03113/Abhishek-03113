@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 💼 Currently working as a **Backend Engineer**
-- ⚙️ Primary language: **Golang**, with experience in **Java** and **Python**
+- ⚙️ Primary language: **Go**, with experience in **Java** and **Python**
 - 📊 Exploring **Data Engineering** — working on **ETL pipelines** and **data ecosystems**
 - 🧠 Strong exposure to **Backend Systems**, APIs, and scalable architectures
 - 🌐 Also experienced in **Full Stack Development** using **TypeScript + React**
